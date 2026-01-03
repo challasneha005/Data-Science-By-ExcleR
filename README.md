@@ -5,6 +5,7 @@ Each day includes:
 
 * A **main practice notebook** (`DayX.ipynb`) → *to be followed in order*
 * **Reference notebooks / theory files** (`*_ref.ipynb`, `*_Theory.ipynb`, `.pptx`) → *for additional understanding*
+* Use the csv files for the necessary files*
 
 ---
 
