@@ -71,7 +71,7 @@ Each day includes:
 
   * `LinearRegression_news_paper_ref.ipynb`
   * `MultiLinearRegression_Cars_ref.ipynb`
-  * `toyoto_corolla_Practice_ref.ipynb`
+  * `Toyoto_corolla_Practice_ref.ipynb`
 
 ---
 
